@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cap</string>
+    <string name="title_map">지도</string>
+    <string name="title_delivery_list">배송목록</string>
+    <string name="title_search">검색</string>
+    <string name="title_etc">더보기</string>
+    <string name="delivery_ing">운송중</string>
+    <string name="delivery_avail">운송가능</string>
+    <string name="delivery_fin">운송완료</string>
+</resources>
